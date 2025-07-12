@@ -1,0 +1,516 @@
+.agents-container {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #0f1923 0%, #1a2730 100%);
+}
+
+.agents-header {
+  text-align: center;
+  margin-bottom: 4rem;
+  position: relative;
+  padding: 2rem 0;
+}
+
+.agents-header::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 150px;
+  height: 3px;
+  background: linear-gradient(90deg, transparent, #ff4655, transparent);
+}
+
+.agents-header h1 {
+  font-size: 3.5rem;
+  color: #fff;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  text-shadow: 0 0 10px rgba(255, 70, 85, 0.5);
+  animation: glow 2s ease-in-out infinite alternate;
+}
+
+.agents-header p {
+  color: #8b978f;
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+.role-section {
+  margin-bottom: 4rem;
+}
+
+.role-header {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.role-icon {
+  width: 60px;
+  height: 60px;
+  padding: 10px;
+  background: rgba(255, 70, 85, 0.1);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.role-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: drop-shadow(0 0 5px rgba(255, 70, 85, 0.3));
+}
+
+.role-title {
+  color: #ff4655;
+  font-size: 2.2rem;
+  margin: 0;
+}
+
+.role-description {
+  color: #8b978f;
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
+
+.agents-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+  perspective: 1000px;
+}
+
+.agent-card {
+  background: rgba(31, 35, 38, 0.8);
+  border-radius: 12px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.4s ease;
+  position: relative;
+  backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transform-style: preserve-3d;
+}
+
+.agent-card:hover {
+  transform: translateY(-10px) rotateX(5deg);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4), 0 0 20px rgba(255, 70, 85, 0.2);
+  border-color: rgba(255, 70, 85, 0.3);
+}
+
+.agent-image {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.agent-card:hover .agent-image {
+  transform: scale(1.05);
+}
+
+.agent-info {
+  padding: 1.5rem;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.agent-name {
+  color: #fff;
+  font-size: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.agent-description {
+  color: #8b978f;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+/* Modal styles */
+.agent-detail {
+  color: #fff;
+  max-height: 85vh;
+  overflow-y: auto;
+  padding: 2rem;
+  scrollbar-width: thin;
+  scrollbar-color: #ff4655 rgba(255, 255, 255, 0.1);
+  line-height: 1.6;
+}
+
+.agent-detail::-webkit-scrollbar {
+  width: 8px;
+}
+
+.agent-detail::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+}
+
+.agent-detail::-webkit-scrollbar-thumb {
+  background: #ff4655;
+  border-radius: 4px;
+}
+
+.agent-detail-header {
+  display: flex;
+  gap: 3rem;
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 2px solid rgba(255, 70, 85, 0.2);
+  align-items: flex-start;
+}
+
+.agent-detail-info {
+  flex: 1;
+}
+
+.agent-detail-info h2 {
+  color: #ff4655;
+  font-size: 2.8rem;
+  margin-bottom: 1.5rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 0 0 10px rgba(255, 70, 85, 0.3);
+}
+
+.agent-detail-info p {
+  color: #ece8e1;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  max-width: 80ch;
+  margin-bottom: 2rem;
+}
+
+.agent-abilities {
+  margin-top: 2rem;
+}
+
+.agent-abilities-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.skill-counter {
+  background: rgba(255, 70, 85, 0.1);
+  padding: 0.6rem 1.2rem;
+  border-radius: 20px;
+  font-size: 1rem;
+  color: #ff4655;
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  letter-spacing: 1px;
+}
+
+.skill-counter span {
+  color: #fff;
+  font-weight: 600;
+}
+
+.agent-abilities h3 {
+  color: #fff;
+  font-size: 2rem;
+  position: relative;
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+.agent-abilities h3::after {
+  content: "";
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, #ff4655, transparent);
+}
+
+.abilities-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.abilities-grid {
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(350px, 1fr)
+  ); /* Increased from 300px to accommodate larger icons */
+  gap: 2rem;
+}
+
+.ability-card {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.ability-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  border-color: rgba(255, 70, 85, 0.3);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.ability-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 70, 85, 0.5),
+    transparent
+  );
+  transform: translateX(-100%);
+  transition: transform 0.6s ease;
+}
+
+.ability-card:hover::before {
+  transform: translateX(100%);
+}
+
+.ability-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.ability-card h4 {
+  color: #ff4655;
+  font-size: 1.4rem;
+  margin: 0;
+  letter-spacing: 1px;
+}
+
+.ultimate-badge {
+  background: linear-gradient(135deg, #ff4655, #ff6b76);
+  color: white;
+  padding: 0.4rem 0.8rem;
+  border-radius: 8px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  box-shadow: 0 2px 8px rgba(255, 70, 85, 0.4);
+  white-space: nowrap;
+}
+
+.ability-card p {
+  color: #ece8e1;
+  font-size: 1rem;
+  line-height: 1.7;
+  margin: 0;
+  max-width: 70ch;
+}
+
+.ability-icon {
+  width: 100px; /* Fixed width */
+  height: 100px; /* Fixed height to maintain square aspect ratio */
+  min-width: 100px; /* Prevent shrinking */
+  min-height: 100px; /* Prevent shrinking */
+  background: rgba(255, 70, 85, 0.1);
+  border-radius: 12px;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin-right: 1.5rem;
+}
+
+.ability-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+  transition: transform 0.3s ease;
+}
+
+.ability-card:hover .ability-icon img {
+  transform: scale(1.1) rotate(5deg);
+}
+
+@media (max-width: 768px) {
+  .agent-detail-header {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .agent-detail-info h2 {
+    font-size: 2.2rem;
+  }
+
+  .ability-card {
+    padding: 1.5rem;
+  }
+
+  .abilities-container {
+    grid-template-columns: 1fr;
+  }
+
+  .modal-content {
+    padding: 1.5rem;
+    width: 100%;
+    height: 100%;
+    max-height: 100vh;
+    border-radius: 0;
+  }
+
+  .agent-detail-header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .agent-detail-image {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+
+  .ability-content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .ability-icon {
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+}
+
+/* Modal overlay and content styles */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.85);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  backdrop-filter: blur(8px);
+}
+
+.modal-content {
+  background: linear-gradient(
+    135deg,
+    rgba(15, 25, 35, 0.95),
+    rgba(25, 35, 45, 0.95)
+  );
+  padding: 2.5rem;
+  border-radius: 16px;
+  max-width: 1000px;
+  width: 95%;
+  max-height: 90vh;
+  overflow-y: auto;
+  position: relative;
+  border: 1px solid rgba(255, 70, 85, 0.1);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(255, 255, 255, 0.05);
+  animation: modalFadeIn 0.3s ease-out;
+}
+
+.modal-close {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  background: rgba(255, 255, 255, 0.1);
+  border: none;
+  color: white;
+  font-size: 1.5rem;
+  cursor: pointer;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(4px);
+}
+
+.modal-close:hover {
+  background: rgba(255, 70, 85, 0.2);
+  transform: rotate(90deg);
+}
+
+@keyframes modalFadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Agent Details Styling */
+.agent-detail-image {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease;
+  border: 2px solid rgba(255, 70, 85, 0.2);
+}
+
+.agent-role-badge {
+  position: absolute;
+  bottom: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: linear-gradient(135deg, #ff4655, #ff6b76);
+  color: white;
+  padding: 0.6rem 1.8rem;
+  border-radius: 20px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  box-shadow: 0 4px 15px rgba(255, 70, 85, 0.4);
+}
+
+.ability-content {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.abilities-title {
+  position: relative;
+}
+
+.abilities-subtitle {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}
