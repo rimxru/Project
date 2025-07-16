@@ -23,48 +23,48 @@ function Agents() {
           description:
             "Joining from the U.S.A., Brimstone's orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and safely make him the unmatched boots-on-the-ground commander.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393594437698981929/latest.png?ex=6873bd75&is=68726bf5&hm=8f01388bcec5459cff3288e3c898981659f16427d6af38c5520be1fdf215681d&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393594437698981929/latest.png?ex=6875b7b5&is=68746635&hm=5b3a57f555369fa305297f4abd60266b2eccb0d613163a6bb172a4936800daf1&",
         },
         {
           name: "Viper",
           description:
             "The American Chemist, Viper deploys an array of poisonous chemical devices to control the battlefield and choke the enemy's vision. If the toxins don't kill her prey,",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393594484951879701/latest.png?ex=6873bd80&is=68726c00&hm=463f767cf8b0fdbf200f9314498e9b30640b1df940eb9441b85011fcdca11fd7&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393594484951879701/latest.png?ex=6875b7c0&is=68746640&hm=7dfa9772813a9f745ae0c9d65100fcaa05dab4b4b596e1a44c665a67b9b78d51&",
         },
         {
           name: "Omen",
           description:
             "A phantom of a memory, Omen hunts in the shadows. He renders enemies blind, teleports across the field, then lets paranoia take hold as his foe scrambles to learn where he might strike next.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393594363849998437/latest.png?ex=6873bd64&is=68726be4&hm=c85990fffc2e154538b397196b2a0ed7929530b04ed3244cd9be8dfb85800566&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393594363849998437/latest.png?ex=6875b7a4&is=68746624&hm=7c0a188e333e5b1aeff1df5ff2d3514196f64aab9ecaabd78c10e7cb043cc80c&",
         },
         {
           name: "Astra",
           description:
             "Ghanaian Agent Astra harnesses the energies of the cosmos to reshape battlefields to her whim. With full command of her astral form and a talent for deep strategic foresight,",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393594540434391141/latest.png?ex=6873bd8e&is=68726c0e&hm=e602aef799704705783524b0e1ae9d36d66ff0fd20a528af192ffa95f1145576&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393594540434391141/latest.png?ex=6875b7ce&is=6874664e&hm=931d7788e8d9b268782ef767fd7877b5a35104a24fbdb8a784db5844ff674834&",
         },
         {
           name: "Harbor",
           description:
             "Hailing from India’s coast, Harbor storms the field wielding ancient technology with dominion over water. He unleashes frothing rapids and crushing waves to shield his allies.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393594628925816954/latest.png?ex=6873bda3&is=68726c23&hm=0b90e55a6fdbb8cf5971f9d338fcdab260d0de0d1a4e325d8de917fbcc7f7922&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393594628925816954/latest.png?ex=6875b7e3&is=68746663&hm=dc388eddf5f3100a45eeed8434ff2172c13e4de0e492edbd3b0872a6761114f7&",
         },
         {
           name: "Clove",
           description:
             "Scottish troublemaker Clove makes mischief for enemies in both the heat of combat and the cold of death. The young immortal keeps foes guessing, even from beyond the grave.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393594720416174243/latest.png?ex=6873bdb9&is=68726c39&hm=353d110356190accb5e1fb93a3a1274a9847f35743cd0d851882b46091804e3b&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393594720416174243/latest.png?ex=6875b7f9&is=68746679&hm=272f48cbc4ddc179731e51f2ca86c6f16a42ff65b835333d5fcc6c50970c6a0a&",
         },
       ],
     },
     {
       name: "Duelist",
-      icon: "https://cdn.discordapp.com/attachments/1359793709025067060/1393586887150665799/169025541711461704.png?ex=6873b66d&is=687264ed&hm=945bf950cb5d431907d38ad3241cbad2f99bf5eab3bc340fd86b3e8a76f4e36a&",
+      icon: "https://cdn3.emoji.gg/emojis/4987-duelist-valorant.png",
       description:
         "Duelists are self-sufficient fraggers who their team expects to take aggressive engagements and win.",
       agents: [
@@ -73,62 +73,62 @@ function Agents() {
           description:
             "Hailing from the U.K., Phoenix's star power shines through in his fighting style, igniting the battlefield with flash and flare. Whether he's got backup or not, he'll rush into a fight on his own terms.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393604739622502460/latest.png?ex=6873c70d&is=6872758d&hm=c70c8e9d4f25b84d64596ff77004367eaba5258eeffa971853a230f5fe9a1f95&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393604739622502460/latest.png?ex=6875c14d&is=68746fcd&hm=7f07960fcf70cb7e1270ad153c1fa81b7c16d4cb84bca2e52c43e98a023c8313&",
         },
         {
           name: "Jett",
           description:
             "Representing her home country of South Korea, Jett's agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies before they even know what hit them.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393604813043925185/latest.png?ex=6873c71f&is=6872759f&hm=412cd3c87197626580444f7833f3740614770a3e46a90262fd7faa0e360f272d&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393604813043925185/latest.png?ex=6875c15f&is=68746fdf&hm=fe826626b602b34b2973938e5e5a413bc87289a5e8a87403a40ab0fa18dd1c93&",
         },
         {
           name: "Raze",
           description:
             "Raze explodes out of Brazil with her big personality and big guns. With her blunt-force-trauma playstyle, she excels at flushing entrenched enemies and clearing tight spaces",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393604931721625720/latest.png?ex=6873c73b&is=687275bb&hm=3e84f886482b37a67a94f4d5ce88ea52832571b5efdd618db3b4a29fe957886e&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393604931721625720/latest.png?ex=6875c17b&is=68746ffb&hm=7c292dffb2b32382c17d999923445b3ff2a9de62b88cbb56e5a7133662d59da9&",
         },
         {
           name: "Reyna",
           description:
             "Forged in the heart of Mexico, Reyna dominates single combat, popping off with each kill she scores. Her capability is only limited by her raw skill, making her highly dependent on performance.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393604881796829244/latest.png?ex=6873c72f&is=687275af&hm=b81736bf07e135dcdd86d63037e79e926f172a5c7d8cc12bb45c6a1e6f5b4093&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393604881796829244/latest.png?ex=6875c16f&is=68746fef&hm=405bbca16b719f6c68f550200957cffd7249a2557b08486e3d8cd7500e459625&",
         },
         {
           name: "Yoru",
           description:
             "Japanese native, Yoru, rips holes straight through reality to infiltrate enemy lines unseen. Using deception and aggression in equal measure, he gets the drop on each target before they know where to look.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393604979901595658/latest.png?ex=6873c747&is=687275c7&hm=abd8de56a5f6cd365ad056ace92b72ff818a3441e5190e40fbd1edbc20aaf164&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393604979901595658/latest.png?ex=6875c187&is=68747007&hm=66621bf84d8bb6a7ef0eda93f7f235fe79ba1b75f808822da75bec58b6d61496&",
         },
         {
           name: "Neon",
           description:
             "Filipino Agent Neon surges forward at shocking speeds, discharging bursts of bioelectric radiance as fast as her body generates it. She races ahead to catch enemies off guard, then strikes them down quicker than lightning.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393605028761309195/latest.png?ex=6873c752&is=687275d2&hm=91e676c93fc6c32582e5c05b7980ffeb648412095662497d1f3a5c12e862ab39&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393605028761309195/latest.png?ex=6875c192&is=68747012&hm=93c89b1611a9ae808a916659a8c0bbc351b9589b19d2f233326dc2e602fd26bc&",
         },
         {
           name: "Iso",
           description:
             "Chinese fixer for hire, Iso falls into a flow state to dismantle the opposition.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393605081215271024/latest.png?ex=6873c75f&is=687275df&hm=e4aa567fa34500222184f558b2bf0d41b75a6a03a303742ac35abaffd612e2ec&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393605081215271024/latest.png?ex=6875c19f&is=6874701f&hm=2ed642163a5b191e9548a64d2533475c45f08e1938959806efd4854bf790310d&",
         },
         {
           name: "Waylay",
           description:
             "Thailand's prismatic radiant Waylay transforms into light itself as she darts across the battlefield,",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393605123003121794/latest.png?ex=6873c769&is=687275e9&hm=26704149c8c444f5aa168d1c46fa798bedfcbf2b055a4349c19e770a20f18022&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393605123003121794/latest.png?ex=6875c1a9&is=68747029&hm=a11ac52d3853ec6dae50cb100a15da1ccf4947bd7ff5cecd55c93b06c546705b&",
         },
       ],
     },
     {
       name: "Initiator",
-      icon: "https://cdn.discordapp.com/attachments/1359793709025067060/1393588606232166470/latest.png?ex=6873b807&is=68726687&hm=368e11fdd506a9f72e114cf30bcc7d8339aa3062655b5b2566d4f080c85bab58&",
+      icon: "https://cdn.discordapp.com/attachments/1359793709025067060/1393588606232166470/latest.png?ex=6875b247&is=687460c7&hm=0eab326cbcf38fa2db0d16dd371af611fb3c114d48a17cb15babfccef5a3e34f&",
       description:
         "Initiators challenge angles by setting up their team to enter contested ground and push defenders away.",
       agents: [
@@ -137,55 +137,55 @@ function Agents() {
           description:
             "Born from the eternal winter of Russia's tundra, Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393596379787694150/latest.png?ex=6873bf44&is=68726dc4&hm=ecb86e0fd441a8ddd10eb297747e9e3d41128722028f5aa444793b09f86c2115&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393596379787694150/latest.png?ex=6875b984&is=68746804&hm=cf4f0ccae1de9c864161fe8d2bbd034620dfe132bcd673551ec5a45cd665b8c8&",
         },
         {
           name: "Breach",
           description:
             "Breach, the bionic Swede, fires powerful, targeted kinetic blasts to aggressively clear a path through enemy ground. The damage and disruption he inflicts ensures no fight is ever fair.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393596439011131402/latest.png?ex=6873bf52&is=68726dd2&hm=652a4d31c11d4aa1edc0262541490a209afdc1763b5b547c376ccf1b022081f1&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393596439011131402/latest.png?ex=6875b992&is=68746812&hm=78efc04c28fb2e2aaa857b91141c2428eb4cc5ee1d662f899ceba5e8af085f77&",
         },
         {
           name: "Skye",
           description:
             "Hailing from Australia, Skye and her band of beasts trail-blaze the way through hostile territory. With her creations hampering the enemy, and her power to heal others, the team is strongest and safest by Skye’s side.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393596499840991292/latest.png?ex=6873bf61&is=68726de1&hm=eb0171dedf397097fcfcf1bc80fafc4de02882cded5d98eb5abbf5e6049385eb&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393596499840991292/latest.png?ex=6875b9a1&is=68746821&hm=a84045a9eea8cd5bda694f9b671763aa984d0eeedd7024d0a705783869d12e01&",
         },
         {
           name: "KAY/O",
           description:
             "KAY/O is a machine of war built for a single purpose: neutralizing radiants. His power to Suppress enemy abilities dismantles his opponents' capacity to fight back, securing him and his allies the ultimate edge.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393596556233674772/latest.png?ex=6873bf6e&is=68726dee&hm=64a60629cb6e8e3753a7670eeb8faee85a02d59a8c46be28b327a4806cac573b&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393596556233674772/latest.png?ex=6875b9ae&is=6874682e&hm=68ca5673f533446d097958663252e937aa533999f2607d7cb199972763dd8c36&",
         },
         {
           name: "Fade",
           description:
             "Turkish bounty hunter, Fade, unleashes the power of raw nightmares to seize enemy secrets. Attuned with terror itself, she hunts targets and reveals their deepest fears—before crushing them in the dark.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393596599401447424/latest.png?ex=6873bf79&is=68726df9&hm=fecae2af5852b82d133fbe7a30424a0256705b0e65a1b26552caf5964900f23b&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393596599401447424/latest.png?ex=6875b9b9&is=68746839&hm=7b9db604e7d132f94c973bdb94e6af8dc3e96b99ab4033cd4498ef7d106828f4&",
         },
         {
           name: "Gekko",
           description:
             "Gekko the Angeleno leads a tight-knit crew of calamitous creatures. His buddies bound forward, scattering enemies out of the way, with Gekko chasing them down to regroup and go again.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393596642699120721/latest.png?ex=6873bf83&is=68726e03&hm=44768dd5e8e08c202890116d3e2a395f7c5e0897443f775ed4c1f87ad3d81103&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393596642699120721/latest.png?ex=6875b9c3&is=68746843&hm=9a8edfa35158d36cddd8eb650816f0b4ba98c69aa5b430d4c086b66a016fae4b&",
         },
         {
           name: "Tejo",
           description:
             "A veteran intelligence consultant from Colombia, Tejo's ballistic guidance system pressures the enemy to relinquish their ground - or their lives.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393596695488630954/latest.png?ex=6873bf8f&is=68726e0f&hm=656a57a37cad57149489c2178f6cb41ec1856311aa3d60b2c8a3e7bf1288fca6&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393596695488630954/latest.png?ex=6875b9cf&is=6874684f&hm=c8d9f9fa71cdbcccb389236926162ffcc66abbe15726c4983c6af2726117bd1d&",
         },
       ],
     },
     {
       name: "Sentinel",
-      icon: "https://cdn.discordapp.com/attachments/1359793709025067060/1393588331736207430/latest.png?ex=6873b7c5&is=68726645&hm=73750b4823d96c91375be9525626b46d927659c94cbb90e5bf3dba7e5b841115&",
+      icon: "https://cdn.discordapp.com/attachments/1359793709025067060/1393588331736207430/latest.png?ex=6875b205&is=68746085&hm=602f9721eac102aa221a13fccdc49606d70df974599ad36abb3b215df943b94d&",
       description:
         "Sentinels are defensive experts who can lock down areas and watch flanks, both on attack and defender rounds.",
       agents: [
@@ -194,42 +194,42 @@ function Agents() {
           description:
             "The Moroccan information broker, Cypher is a one-man surveillance network who keeps tabs on the enemy's every move.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393610129013739531/latest.png?ex=6873cc12&is=68727a92&hm=352936747cae4d95d7e51e1a7bf5cf589e88ca4c5fe92c2f7b990b8a592928f5&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393610129013739531/latest.png?ex=6875c652&is=687474d2&hm=9c2bcd58600d9bfc6416961415d82cc1d94d6bf98e6088f9de2e72d1bcd860de&",
         },
         {
           name: "Sage",
           description:
             "The stronghold of China, Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off aggressive pushes.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393610432014716959/latest.png?ex=6873cc5b&is=68727adb&hm=1d11144ba0a42026c0adf30644b0bfb7c7e556aec56b64ba2fa565f91121795f&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393610432014716959/latest.png?ex=6875c69b&is=6874751b&hm=7d7ee7ae0df920892f508a599198af2ab11fcbbe51f7bcc91993f5a87e5d62e5&",
         },
         {
           name: "Killjoy",
           description:
             "The genius of Germany. Killjoy secures the battlefield with ease using her arsenal of inventions. If the damage from her gear doesn't stop her enemies.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393610081366446110/latest.png?ex=6873cc07&is=68727a87&hm=7ee74957a1085d6d49d158eb87b595066408556fbcad1044a98b565d1f01cee1&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393610081366446110/latest.png?ex=6875c647&is=687474c7&hm=5f29b35d08b7fb48e0b2c2f039bb36b8062ca2b7452f4a9b62a748f40b642afe&",
         },
         {
           name: "Chamber",
           description:
             "Well-dressed and well-armed, French weapons designer Chamber expels aggressors with deadly precision. He leverages his custom arsenal to hold the line and pick off enemies from afar.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393610196684902450/latest.png?ex=6873cc22&is=68727aa2&hm=1a95ae963863b332974602e3c3ff96942dbaea1cceeb70ed3403d8ae68c884aa&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393610196684902450/latest.png?ex=6875c662&is=687474e2&hm=f92b3c38bff087e51a187e93bf8588942a2aba3edb25669b9fbb35cfc24b2286&",
         },
         {
           name: "Deadlock",
           description:
             "Norwegian operative Deadlock deploys an array of cutting-edge nanowire to secure the battlefield from even the most lethal assault. No one escapes her vigilant watch, nor survives her unyielding ferocity.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393610251558977546/latest.png?ex=6873cc2f&is=68727aaf&hm=f15c7f52046f535fa69af71c21e9fa45ac383eee28c5eeb55d60a24b5f61f701&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393610251558977546/latest.png?ex=6875c66f&is=687474ef&hm=01d43124ea5f5cf9f950125cbdf4dbaa258295da54da6e0229e90ab5365264a7&",
         },
         {
           name: "Vyse",
           description:
             "Metallic mastermind Vyse unleashes liquid metal to isolate, trap, and disarm her enemies. Through cunning and manipulation, she forces all who oppose her to fear the battlefield itself.",
           image:
-            "https://cdn.discordapp.com/attachments/1393593969618849937/1393610304230920272/latest.png?ex=6873cc3c&is=68727abc&hm=5b9b984bdb168758fef6d89242a506db1ed1cd0a6a7d13adcb18e90017fcee59&",
+            "https://cdn.discordapp.com/attachments/1393593969618849937/1393610304230920272/latest.png?ex=6875c67c&is=687474fc&hm=434ba296020232932ca3164b03d1c0d88329ac68cbeb7e97749862520ecc1d7e&",
         },
       ],
     },
@@ -285,23 +285,23 @@ function Agents() {
         {
           name: "Shrouded Step",
           description: "Teleport a short distance.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393628321014874173/115.png?ex=6873dd04&is=68728b84&hm=009574a8302818e567e51b69cac7079d6010e9a239e9900b25cb03d5bafecc5d&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393628321014874173/115.png?ex=6875d744&is=687485c4&hm=c73457cfef272688f6044fa2924fb99b327074f7adc8c0f5f7381b05fead3b1f&",
         },
         {
           name: "Paranoia",
           description: "Send out a shadowy projectile that nearsights enemies.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393628844530991214/115.png?ex=6873dd80&is=68728c00&hm=f75cf43c4020df5e425dbe8bf7af24382da37a6a541b98b75dc8d4051ac53e25&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393628844530991214/115.png?ex=6875d7c0&is=68748640&hm=e1ee4c77448a5e90d8d230f171750b16a25ade8945fdc5ef1a4e6eebf66c38b7&",
         },
         {
           name: "Dark Cover",
           description: "Place a stationary smoke screen at a location.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393629000970141796/115.png?ex=6873dda6&is=68728c26&hm=1d90210eb70c15b5a31a2a231d1792c0a1575468dc201253bc816064565d7fa6&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393629000970141796/115.png?ex=6875d7e6&is=68748666&hm=80705fb5a694c02724df2e7ad04932a0059131bf97af3ff889a76517e406801a&",
         },
         {
           name: "From the Shadows",
           description:
             "Teleport anywhere on the map. If killed, return to your previous location.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393629915613630564/115.png?ex=6873de80&is=68728d00&hm=7ecd85d5a790c4326709e52d75614dc9992222ad50ae4862eafbf56b35ca735f&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393629915613630564/115.png?ex=6875d8c0&is=68748740&hm=03059dafc2f5433bfda8ebf25f854a6640865ec902a1e81e86a4657bb9d84b41&",
         },
       ],
       Astra: [
@@ -309,55 +309,55 @@ function Agents() {
           name: "Nova Pulse",
           description:
             "Detonate a star, concussing and damaging players in range.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393631705507692564/115.png?ex=6873e02b&is=68728eab&hm=376c67fa82e61fd7212234ff9ceed029a6946468cb08de42bae3ff25c5c4ff73&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393631705507692564/115.png?ex=6875da6b&is=687488eb&hm=f89fff3ee83214071188d8630d0ba373bb258a2a5daed1bfd0df96095d963074&",
         },
         {
           name: "Gravity Well",
           description:
             "Create a gravity well that pulls players in and explodes.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393631309829509241/115.png?ex=6873dfcc&is=68728e4c&hm=fab43541ee2d373c0f0ad4d8894762cdb133312ffd4066a606f39ff7cb6c307d&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393631309829509241/115.png?ex=6875da0c&is=6874888c&hm=c3bf52dc99457080f7b6bd50e16b3ec85e872fcd78f78207eb26162e6b77dc58&",
         },
         {
           name: "Nebula",
           description: "Create a smoke cloud that obscures vision.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393632018906087534/115.png?ex=6873e075&is=68728ef5&hm=4efe864b20713a4750585cc7828f2ae7698471969cb8f8b5036074f775a015fe&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393632018906087534/115.png?ex=6875dab5&is=68748935&hm=b3dad746b6df4a147aeb4d5217ea49660d18c1d85956ed02935812d2bf3f0ad9&",
         },
         {
           name: "Astral Form",
           description:
             "Enter a different plane of existence to place stars. Re-enter your body to detonate them.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393630713961513010/115.png?ex=6873df3e&is=68728dbe&hm=2d11dbb08d06973baba188d0b878abf4bcc59d2f78f22c77d608a4679bb0c4ba&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393630713961513010/115.png?ex=6875d97e&is=687487fe&hm=586b6db248ab0cd4fcdbfcf9414cbb824db3b8a1e73d3774ebf5c016b20082f1&",
         },
         {
           name: "Cosmic Divide",
           description:
             "When Cosmic Divide is charged, use ALT FIRE in Astral Form to begin aiming it, then FIRE to select two locations. An infinite Cosmic Divide connects the two points you select. Cosmic Divide blocks bullets and sound.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393632465201004624/115.png?ex=6873e0e0&is=68728f60&hm=6aa56976b969ee12bdaaef54f51f80764402bba6c64d3ad7ff54323168631a02&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393632465201004624/115.png?ex=6875db20&is=687489a0&hm=eeac64b5ce70e20ad75c512286e8cb757c05aa295bdea27c3db3a5852e84de10&",
         },
       ],
       Harbor: [
         {
           name: "Cove",
           description: "Deploy a shield that blocks bullets and explosives.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393633750364983426/115.png?ex=6873e212&is=68729092&hm=3522f03cd7b2020d8cd024612b20b5aed393848780ef6551919cede353db3824&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393633750364983426/115.png?ex=6875dc52&is=68748ad2&hm=5ee951dce4b99f6a59e47342d680adb53dc918bd1a183dc326dd0d7cc4eca0fd&",
         },
         {
           name: "Cascade",
           description:
             "wave of water. FIRE to send the wave rolling forward and through walls. RE-USE to stop the wave. Players hit are Slowed.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393632952642044025/115.png?ex=6873e154&is=68728fd4&hm=6f105dbf92912674800d4b922c71db7d268e531de9dc3a9aedd74ec75e0f4cca&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393632952642044025/115.png?ex=6875db94&is=68748a14&hm=aaa03f931af76434664165569ed06444aaee92c1bd6d84282f0a5902a2cc779b&",
         },
         {
           name: "High Tide",
           description:
             " wall of water. FIRE to send the water forward along the ground. HOLD FIRE to guide the water in the direction of your crosshair, passing through the world, spawning a wall along the water's path. ALT FIRE while bending to stop the water early. Players hit are Slowed.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393633987842543656/115.png?ex=6873e24b&is=687290cb&hm=4d4852aff11f2ac75e980dea61052bfee3a42e384cfd713de9630e563956f2cc&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393633987842543656/115.png?ex=6875dc8b&is=68748b0b&hm=6fcc415ae8636e1eed2db5ae6688469ffc748e4fee2ab4276913b78d69563853&",
         },
         {
           name: "Reckoning",
           description:
             "Summon a massive wave that damages and concusses players.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393634256076542043/115.png?ex=6873e28b&is=6872910b&hm=90d3451e399b70c1ba37bbd31eb3fd31dc368a433cc577707f62f6f104a812a1&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393634256076542043/115.png?ex=6875dccb&is=68748b4b&hm=832e5448e2b09a1f9a8ebcd34226e4c636349ea919836b72e7e94dd1184561a8&",
         },
       ],
       Clove: [
@@ -365,25 +365,25 @@ function Agents() {
           name: "Pick-me-up",
           description:
             "ACTIVATE to absorb the life force of a fallen enemy that Clove damaged or killed, gaining haste and temporary health.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393634643185631342/115.png?ex=6873e2e7&is=68729167&hm=2d8a2aad3610e722b85b6e0f6d7a2b439ab5ef93dff4e2aacaba6a432bf0d5a3&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393634643185631342/115.png?ex=6875dd27&is=68748ba7&hm=f9a971b31dd73e3f0e3d106dad6424f29f277bc338d6c15ba1170f8d8f673d23&",
         },
         {
           name: "Meddle",
           description:
             "fragment of immortality essence. FIRE to throw the fragment, which upon landing on the floor, erupts after a short delay and temporarily Decays all targets caught inside.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393635022707101726/115.png?ex=6873e341&is=687291c1&hm=f07bd6cde12f0b048c633a8f0e789da8f0ad2fa853241f25721530c5697f0b11&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393635022707101726/115.png?ex=6875dd81&is=68748c01&hm=55f5829f50b81a15d3428c11bf9f65ab228291d3bd20ad86dde6deb4b2fd4d72&",
         },
         {
           name: "Ruse",
           description:
             "view of the battlefield. FIRE to set the locations where Clove's clouds will settle. ALT FIRE to confirm, launching clouds that block vision in the chosen areas. Clove can use this ability after death.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393635343890256024/115.png?ex=6873e38e&is=6872920e&hm=a54ad641cb1faa9649a7f6d6434a778941fa8a558d2b161ddea49d0fad8f308c&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393635343890256024/115.png?ex=6875ddce&is=68748c4e&hm=b3ed85b821ca3f41c2f3260cfdff2136cf9ed5571613d57d0c6891253dd67478&",
         },
         {
           name: "Not Dead Yet",
           description:
             "After dying, ACTIVATE to resurrect. Once resurrected, Clove must earn a kill or a damaging assist within a set time or they will die. REACTIVATE to cancel early.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393635559611830332/115.png?ex=6873e3c1&is=68729241&hm=6dab7211bd02a0c68b4d11b28543526fcc20ca6b7c7fa085e7bae6801f54beaa&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393635559611830332/115.png?ex=6875de01&is=68748c81&hm=f883ce9897b238caac05703de5d194dbf51c475d814e249b89e3b9196bfea8b5&",
         },
       ],
       Phoenix: [
@@ -414,27 +414,33 @@ function Agents() {
       ],
       Jett: [
         {
+          name: "Drift(passive)",
+          description:
+            "Holding the jump button while falling allows you to glide through the air.",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393638218410233987/latest.png?ex=6875e07b&is=68748efb&hm=62732f3a7f335a5569e85f547a899563d56530f0b582c75776f2aaef0130564f&",
+        },
+        {
           name: "Cloudburst",
           description:
             "INSTANTLY throw a projectile that expands into a brief vision-blocking cloud on impact with a surface. HOLD the ability key to curve the smoke in the direction of your crosshair.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393638218410233987/latest.png?ex=6873e63b&is=687294bb&hm=ebc1db866a2f07950fe3ba116aa273f8cac9abe58c95021e9ba06a7202a6b29d&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393638436996517898/115.png?ex=6875e0af&is=68748f2f&hm=082859ccdd5dbe34139811e80c62af1469b874d318ef1e648d789babbb40cb3f&",
         },
         {
           name: "Updraft",
           description: "INSTANTLY propel Jett high into the air. ",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393638650746769529/115.png?ex=6873e6a2&is=68729522&hm=0b021afaa036cbe7a664529d0a027f3c58e78e65c0d7ed8c9f2eb842e25c4929&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393638650746769529/115.png?ex=6875e0e2&is=68748f62&hm=ab759c0380c33738cc5f3c3d9a9185662f361142bb94b8a488dfbf8b2f601be2&",
         },
         {
           name: "Tailwind",
           description:
             "ACTIVATE to prepare a gust of wind for a limited time. RE-USE the wind to propel Jett in the direction she is moving. If Jett is standing still, she propels forward. Tailwind charge resets every two kills.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393638854740934788/115.png?ex=6873e6d3&is=68729553&hm=c4775ae324b669426032319a56ffc77920952ac29eba42f5a1c593103479e619&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393638854740934788/115.png?ex=6875e113&is=68748f93&hm=6d3ad71f6b4d5bef1059590b48c90db3465562b04f564cafb138c34c6b7bb134&",
         },
         {
           name: "Blade Storm",
           description:
             "set of highly accurate throwing knives. FIRE to throw a single knife and recharge knives on a kill. ALT FIRE to throw all remaining daggers but does not recharge on a kill.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393639097242746940/115.png?ex=6873e70d&is=6872958d&hm=2ca02231823c52fa327ab0ef88a8f856c60e73ab3573a9569126234259b63825&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393639097242746940/115.png?ex=6875e14d&is=68748fcd&hm=f41e4b2f0bb80750d7bd4771af9388e71ef2a6ad79d84818175740ed5c3632a3&",
         },
       ],
       Raze: [
@@ -442,25 +448,25 @@ function Agents() {
           name: "Boom Bot",
           description:
             " Boom Bot. FIRE will deploy the bot, causing it to travel in a straight line on the ground, bouncing off walls. The Boom Bot will lock on to any enemies in its frontal cone and chase them, exploding for heavy damage if it reaches them.",
-          icon: "https://cdn.discordapp.com/attachments/1324097723477135392/1393646949583945850/115.png?ex=6873ee5d&is=68729cdd&hm=523d4003b02220a60252fc3f4793961c5d9f6d493d4a94204fd96d947d5a6c6c&",
+          icon: "https://cdn.discordapp.com/attachments/1324097723477135392/1393646949583945850/115.png?ex=6875e89d&is=6874971d&hm=ab8cbbfd20cafb63f66999684748b58288c41b2265fdd3f78248b6ec95dc1503&",
         },
         {
           name: "Blast Pack",
           description:
             "INSTANTLY throw a Blast Pack that will stick to surfaces. RE-USE the ability after deployment to detonate, damaging and moving anything hit.",
-          icon: "https://cdn.discordapp.com/attachments/1324097723477135392/1393646969922257048/115.png?ex=6873ee62&is=68729ce2&hm=1c9f9faf529c4ec5535896ec978791649b460a6b26791217545c844b8440a1a7&",
+          icon: "https://cdn.discordapp.com/attachments/1324097723477135392/1393646969922257048/115.png?ex=6875e8a2&is=68749722&hm=25f6c923ab0e9232c2fc65810b7ac9b164e3b5e740ce02b70fecb60043af05e6&",
         },
         {
           name: "Paint Shells",
           description:
             "cluster grenade. FIRE to throw the grenade, which does damage and creates sub-munitions, each doing damage to anyone in their range. ALT FIRE to lob. Paint Shells charge resets every two kills.",
-          icon: "https://cdn.discordapp.com/attachments/1324097723477135392/1393646991111880827/115.png?ex=6873ee67&is=68729ce7&hm=8b63a4b513b7af77a4b8c7fbcb6843471f728e6ee4f8dd6a2438d5e94033f030&",
+          icon: "https://cdn.discordapp.com/attachments/1324097723477135392/1393646991111880827/115.png?ex=6875e8a7&is=68749727&hm=9f7a68c4c914622c44b15a93a93bc1f2d4e7a6f2f4b9be90a76eab2a4d6aa956&",
         },
         {
           name: "Showstopper",
           description:
             "rocket launcher. FIRE to shoot a rocket that does massive area damage on contact with anything.",
-          icon: "https://cdn.discordapp.com/attachments/1324097723477135392/1393647011965698048/115.png?ex=6873ee6c&is=68729cec&hm=872f427a5a431ba1399ba5d706af6415eac2516a0412dffc3dd4eafb0f57f721&",
+          icon: "https://cdn.discordapp.com/attachments/1324097723477135392/1393647011965698048/115.png?ex=6875e8ac&is=6874972c&hm=47e033e9f206431d650740b91030db3c90c8e06d2d6c034e220ae01549bd1463&",
         },
       ],
       Reyna: [
@@ -468,25 +474,25 @@ function Agents() {
           name: "Leer",
           description:
             "ethereal, destructible eye. ACTIVATE to cast the eye a short distance forward. The eye will Nearsight all enemies who look at it. ",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393639929845649662/115.png?ex=6873e7d3&is=68729653&hm=70e1d157ed8b6220e6d0e319f9ae1a2f59f35306eb3a4ae2e54b92b2c1827363&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393639929845649662/115.png?ex=6875e213&is=68749093&hm=c436945f09e474fc5f7c2b835990c06cd419901c68d215037c4459350d61efbb&",
         },
         {
           name: "Devour",
           description:
             "INSTANTLY consume a nearby soul orb, rapidly Healing. If  Empress is active, this skill will automatically cast and not consume the Soul Orb.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393640280040669215/115.png?ex=6873e827&is=687296a7&hm=bff8b00440e8de87f4e57d65d240ce85f498f142af4e161da100a0be7de9daad&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393640280040669215/115.png?ex=6875e267&is=687490e7&hm=ea9c032e0c45594af9eb37638a79af3727129d63e6e23de7e674cf48f1fe42f8&",
         },
         {
           name: "Dismiss",
           description:
             "INSTANTLY consume a nearby Soul Orb, becoming Intangible for a short duration. If  Empress is active, also become Invisible.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393640581325918260/115.png?ex=6873e86f&is=687296ef&hm=1b71b132c02b6449b0f837a5805c5be5832a2af97693fc7c8c906b112888d4dc&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393640581325918260/115.png?ex=6875e2af&is=6874912f&hm=6f237ea434f1b4792bfbd25b0423c86f2bc82823867b5e08304c9f161585afff&",
         },
         {
           name: "Empress",
           description:
             "INSTANTLY enter a frenzy, gaining a Combat Stim that increases firing, equip and reload speed dramatically. Gain infinite charges of Soul Harvest abilities.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393640771625681078/115.png?ex=6873e89c&is=6872971c&hm=438c5455d23c227c0c96d2da26b0ec9236f68863681a72722ebf112e127bb8a3&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393640771625681078/115.png?ex=6875e2dc&is=6874915c&hm=afe79358c2d9275a17ff398e517b318c10227fc5d08466d9bf37c9a9407f1418&",
         },
       ],
       Yoru: [
@@ -494,25 +500,25 @@ function Agents() {
           name: "Fakeout",
           description:
             "echo that transforms into a mirror image of Yoru when activated. FIRE to instantly activate the mirror image and send it forward. ALT FIRE to place an inactive echo.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393645510430162964/115.png?ex=6873ed06&is=68729b86&hm=a372538b6a9a9a531421acf24e7b7abf363cf71042af51683da7795569b4fd52&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393645510430162964/115.png?ex=6875e746&is=687495c6&hm=7a1dd17f11bf8be2a0d7bc993c0fe892685266471022b7885b7a0fe3bfdcdb92&",
         },
         {
           name: "Blindside",
           description:
             "rip an unstable dimensional fragment from reality. FIRE to throw the fragment, activating a flash that winds up once it collides with a hard surface.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393645819097387138/115.png?ex=6873ed4f&is=68729bcf&hm=a0cffa29b5f75801c84beadb5f6d1be72068cbd5224679e06a9f5bc68413a53a&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393645819097387138/115.png?ex=6875e78f&is=6874960f&hm=c5bb67db0d104edcaa72494a02e1312eb34fdfb776c692fe50398848f8774d9a&",
         },
         {
           name: "Gatecrash",
           description:
             "rift tether. FIRE to send the tether forward. ALT FIRE to place a stationary tether. ACTIVATE to teleport to the tether's location. USE to trigger a fake teleport. GATECRASH resets a charge every two kills.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393646021212504286/115.png?ex=6873ed80&is=68729c00&hm=6d6e940e7b8eb6d53b09e4156d65733bd88e6e625a03f777fad64447a2868469&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393646021212504286/115.png?ex=6875e7c0&is=68749640&hm=8f8bf713cbcb8e1c910f13f3ca07a8478a19599bf2f82d9d0f90e65aa3d2dea8&",
         },
         {
           name: "Dimensional Drift",
           description:
             "mask that can see between dimensions. FIRE to drift into Yoru's dimension, unable to be affected or seen by enemies from the outside. REACTIVATE to exit Yoru's dimension early.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393646263664246925/115.png?ex=6873edb9&is=68729c39&hm=abe49270b8e4ffce64e79ef91e63bb6adc7d9a2b29f5bb200b33750061544971&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393646263664246925/115.png?ex=6875e7f9&is=68749679&hm=972ad13db3bdfc303871481943fc7b2649bd9d1147d614161acae22bd262c2b6&",
         },
       ],
       Neon: [
@@ -520,25 +526,25 @@ function Agents() {
           name: "Fast Lane",
           description:
             "FIRE two energy lines forward on the ground that extend a short distance or until they hit a surface. The lines rise into walls of static electricity that block vision.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393647985690411080/115.png?ex=6873ef54&is=68729dd4&hm=9044852736933a2b56cef49dd35d0f611f628c564303959687a9f199bc3adedb&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393647985690411080/115.png?ex=6875e994&is=68749814&hm=0a734018d15db009c306c9f7084e9bbc5031bf1d160d654d79e4f8d702934856&",
         },
         {
           name: "Relay Bolt",
           description:
             "INSTANTLY throw an energy bolt that bounces once. Upon hitting each surface, the bolt electrifies the ground below with a Concussive blast.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393648689825714346/115.png?ex=6873effc&is=68729e7c&hm=c0e5aa23f2fa118c107d4ea8679b1605a9a9c9cc9896de8eca546eda2444f931&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393648689825714346/115.png?ex=6875ea3c&is=687498bc&hm=ce243627cce488acadb8978cd31d050ece2e41035994712175ed9baadc97f751&",
         },
         {
           name: "High Gear",
           description:
             "INSTANTLY channel Neon's power for Increased Speed. When charged, ALT FIRE to trigger an electric slide dash. Slide charge resets every two kills.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393648949851717923/115.png?ex=6873f03a&is=68729eba&hm=6549b275cf32a969a23df23e0a5837f04bbacd06732eb395a190495d34f1acef&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393648949851717923/115.png?ex=6875ea7a&is=687498fa&hm=e631690ade250488e9c49444908cb4faa3a5b2dd4e1c5f260b513f3e6fed98fa&",
         },
         {
           name: "Overdrive",
           description:
             "Unleash Neon's full power and speed for a short duration. FIRE to channel the power into a deadly lightning beam with high movement accuracy.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393649226268934285/115.png?ex=6873f07c&is=68729efc&hm=59a3a7135acc2f65e468dcbab66cb0d3b69f75c4eebe52ad78316b61dce7dd35&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393649226268934285/115.png?ex=6875eabc&is=6874993c&hm=592c41189e70a35482a86887f6a9f8f0a0f6a1339b9e7f35e3c341290c90542d&",
         },
       ],
       Iso: [
@@ -546,25 +552,25 @@ function Agents() {
           name: "Contingency",
           description:
             "assemble prismatic energy. FIRE to push an indestructible wall of energy forward that blocks bullets. ALT FIRE to push out a slower version of the wall.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393649898762539188/115.png?ex=6873f11c&is=68729f9c&hm=ea341d081d8581273d737e99b834327b1d076518fb613758edc0f19e44e10a07&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393649898762539188/115.png?ex=6875eb5c&is=687499dc&hm=4be5b18fa343ada04269964a39c96444e53b60777728c5c6d7f91c841de4704c&",
         },
         {
           name: "Undercut",
           description:
             "molecular bolt. Fire to throw it forward, briefly applying Vulnerable & Suppress to all players it touches. The bolt can pass through solid objects, including walls.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393650199292805130/115.png?ex=6873f164&is=68729fe4&hm=6670500d5a50821cb2a385cfa13201255987b4d793246f0d003aa30cc24e0e99&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393650199292805130/115.png?ex=6875eba4&is=68749a24&hm=d3515ca8cf8fea603e3e401b2f170db12cf49c73671382d4e613a9eff2205de9&",
         },
         {
           name: "Double Tap",
           description:
             "INSTANTLY start channeling your focus. Once focused: gain a shield which absorbs one instance of damage from any source, reload more quickly, and enter a flow state during which downed enemies you kill or damage spawn an energy orb. Shooting this orb refreshes your flow state and your existing shield, or grants another.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393651287765028904/115.png?ex=6873f267&is=6872a0e7&hm=ae74313e29eae3f8feaa800476b7939e5c1a91553c8a3aec6780b704146bc658&",
+          icon: "https://static.wikia.nocookie.net/valorant/images/7/7c/Double_Tap.png/revision/latest/scale-to-width-down/115?cb=20231031130645",
         },
         {
           name: "Kill Contract",
           description:
             "interdimensional arena. FIRE to hurl a column of energy through the battlefield, pulling you and the first enemy hit into the arena. You and your opponent duel to the death.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393651012484731001/115.png?ex=6873f226&is=6872a0a6&hm=7704c64500f35b556037fec8f2929872d242f5e9aa002bdae99ae4a0348e5c73&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393651012484731001/115.png?ex=6875ec66&is=68749ae6&hm=7850eeb079d7283fc8ab2c54a828cdd14c0a64eda1084ad457736b100d8f5d2a&",
         },
       ],
       Waylay: [
@@ -572,25 +578,25 @@ function Agents() {
           name: "Saturate",
           description:
             "INSTANTLY throw a cluster of light that explodes upon contact with the ground, Hindering nearby players with a powerful movement and weapon slow.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393651659523227668/115.png?ex=6873f2c0&is=6872a140&hm=bdf861fc3abdaa096d128072af7d9403b89a5d1d27bc111728b87116595e1bc6&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393651659523227668/115.png?ex=6875ed00&is=68749b80&hm=90683ef9435b2eb7b3a16a67780d2d2c5c2d8620f4323b3d2b42369038d14889&",
         },
         {
           name: "Lightspeed",
           description:
             "prepare for a burst of speed. FIRE to dash forward twice. ALT FIRE to dash once. Only your first dash can send you upward.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393651913362378782/115.png?ex=6873f2fc&is=6872a17c&hm=24ae181b9266e704b9b17091d4d2de3bc6d34c33d7114ba74660aff010f00752&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393651913362378782/115.png?ex=6875ed3c&is=68749bbc&hm=a0e0a1478f13ce97d455751e9cd76e762d6a8886222833c4b476cef99c96d6fb&",
         },
         {
           name: "Refract",
           description:
             "INSTANTLY create a beacon of light on the floor. REACTIVATE to speed back to your beacon as a mote of pure light. You are invulnerable as you travel. Refract resets a charge every two kills.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393652067922608249/115.png?ex=6873f321&is=6872a1a1&hm=6c0e320b6c1621c98ebfef554f7a8615e296d02654ba440605d6e0338e62653c&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393652067922608249/115.png?ex=6875ed61&is=68749be1&hm=a7e6957d7952b86e3abac5efd7490f99246b57e573760a62684d652a9d5c158c&",
         },
         {
           name: "Convergent PathsX",
           description:
             "focus your prismatic power. FIRE to create an afterimage of yourself that projects a beam of light. After a brief delay, you gain a powerful speed boost and the beam expands, Hindering other players in the area.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393652559285325884/115.png?ex=6873f396&is=6872a216&hm=87215b348a46816a30ab76b9f4ee75b8f1284325494f3728295007451d4b7f21&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393652559285325884/115.png?ex=6875edd6&is=68749c56&hm=1b9c8ad08cb55df7459d5dd89cf7aa0c2ce331258ae2bed0418a48d4af1f882c&",
         },
       ],
       Sova: [
@@ -598,25 +604,25 @@ function Agents() {
           name: "Owl Drone",
           description:
             "owl drone. FIRE to deploy and take control of movement of the drone. While in control of the drone, FIRE to shoot a marking dart. This dart will Reveal the location of any player struck by the dart. Enemies can destroy the Owl Drone.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656789681045624/115.png?ex=6873f787&is=6872a607&hm=19ff5b3b64f79be21ecec808aaa90f90da6b701398acca0ee62c1aae2d27ae08&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656789681045624/115.png?ex=6875f1c7&is=6874a047&hm=8d9db39eb0c4613bbabff52c250fcca175b393f2a04fbdae98a378c02797104a&",
         },
         {
           name: "Shock Bolt",
           description:
             "bow with a shock bolt. FIRE to send the explosive bolt forward, detonating upon collision and damaging players nearby. HOLD FIRE to extend the range of the projectile. ALT FIRE to add up to two bounces to this arrow.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656850922213406/115.png?ex=6873f796&is=6872a616&hm=88f79d6f8ca2f2299a3fc36d3ee186bd11adf485ad230ff0167aa81267bcb23c&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656850922213406/115.png?ex=6875f1d6&is=6874a056&hm=80fbc63aa35663f7cfc40d850f90fcb534bc2a81bbba4e231c8ce195b740d479&",
         },
         {
           name: "Recon Bolt",
           description:
             "bow with a recon bolt. FIRE to send the recon bolt forward, activating upon collision and Revealing the location of nearby enemies caught in the line of sight of the bolt. Enemies can destroy this bolt. HOLD FIRE to extend the range of the projectile. ALT FIRE to add up to two bounces to this arrow.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656927774445588/115.png?ex=6873f7a8&is=6872a628&hm=646d64465fc466d130c459b9071147756f343a6942ac7a110e0f5c8d992c17d7&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656927774445588/115.png?ex=6875f1e8&is=6874a068&hm=95d9d2ee382b69bc782dcc402b3a335a13009a4c7dba475152912b38ae0ec36c&",
         },
         {
           name: "Hunter's Fury",
           description:
             "bow with three long-range, wall-piercing energy blasts. FIRE to release an energy blast in a line in front of Sova, dealing damage and Revealing the location of enemies caught in the line. This ability can be RE-USED up to two more times while the ability timer is active.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656997320196227/115.png?ex=6873f7b9&is=6872a639&hm=e63a8b27ef26cd33014926f8f4e35cb3cd9f63a6da980dffb8d925f63c13233b&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656997320196227/115.png?ex=6875f1f9&is=6874a079&hm=5516b2d170856e298788a73e73dc6b4e08951cb7b4e9642264b16e2ab427ac68&",
         },
       ],
       Breach: [
@@ -624,25 +630,25 @@ function Agents() {
           name: "Aftershock",
           description:
             "fusion charge. FIRE the charge to set a slow-acting burst through the wall. The burst does heavy damage to anyone caught in its area.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393652870842417263/115.png?ex=6873f3e1&is=6872a261&hm=404d3f9a4c7c84522d0e6f11e90e29561e88b944caae58eaf7c6558a9f626239&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393652870842417263/115.png?ex=6875ee21&is=68749ca1&hm=b2e1788a9f5b0ea8d608e51c4c99e6caae9a08f0c34179be3f5237703b9be730&",
         },
         {
           name: "Flashpoint",
           description:
             "blinding charge. FIRE the charge to set a fast-acting burst through the wall. The charge detonates to Blind all players looking at it.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393653128070561832/115.png?ex=6873f41e&is=6872a29e&hm=1b12e6eb2488c6da301650bb22332da483ff3d6c57388e6e0ac4cb6465992218&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393653128070561832/115.png?ex=6875ee5e&is=68749cde&hm=755f6fd06d3541c0e78a60b30888fce5a8396e760acbea72aac1aae17b5f1dea&",
         },
         {
           name: "Fault Line",
           description:
             "seismic blast. HOLD FIRE to increase the distance. RELEASE to set off the quake, Concussing all players in its zone and in a line up to the zone.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393653243766378576/115.png?ex=6873f43a&is=6872a2ba&hm=d751e3085ae3328b3f1820a36132dca1fb6739cb3448d60c8e118c9144ba0097&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393653243766378576/115.png?ex=6875ee7a&is=68749cfa&hm=cfd028c4c5cf30c8d06fcd2db584231ee5c5560f18615705391754433cf8bc77&",
         },
         {
           name: "Rolling Thunder",
           description:
             "Seismic Charge. FIRE to send a cascading quake through all terrain in a large zone. The quake Concusses and knocks up anyone caught in it.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656148950781962/115.png?ex=6873f6ee&is=6872a56e&hm=d1c5a9eaec5ed00988166ee0c5f236ec97a41ca29e96af600deae39a4f109be4&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393653374922002533/115.png?ex=6875ee99&is=68749d19&hm=04d652ba19ed8df3c61381e59a9efabd92cba4dc0bfc682160ca57ea64a24f0b&",
         },
       ],
       Skye: [
@@ -650,25 +656,25 @@ function Agents() {
           name: "Regrowth",
           description:
             "healing trinket. HOLD FIRE to channel, Healing allies in range and line of sight. Can be reused until her healing pool is depleted. Skye cannot heal herself.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656148950781962/115.png?ex=6873f6ee&is=6872a56e&hm=d1c5a9eaec5ed00988166ee0c5f236ec97a41ca29e96af600deae39a4f109be4&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656148950781962/115.png?ex=6875f12e&is=68749fae&hm=a2d3d0a8b03303f98bb799ca9810beae3c26905741c60be93afb3d2d6ad5f632&",
         },
         {
           name: "Trailblazer",
           description:
             "Tasmanian tiger trinket. FIRE to send out and take control of the predator. While in control, FIRE to leap forward, exploding in a Concussive blast and damaging directly hit enemies.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656269616844810/115.png?ex=6873f70b&is=6872a58b&hm=8f2f96d5067703a4a47123ceb98b5adae73ba0e7d88ca8ba846355c8e9fdbd9a&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656269616844810/115.png?ex=6875f14b&is=68749fcb&hm=4910a02fd0b621a0335547f6c1b46a373e2c8447866772603e6e2c95926c7181&",
         },
         {
           name: "Guiding Light",
           description:
             "hawk trinket. FIRE to send it forward. HOLD FIRE to guide the hawk in the direction of your crosshair. RE-USE while the hawk is in flight to transform it into a flash. The flash reaches max potency after a short duration during the hawk's flight.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656353054265416/115.png?ex=6873f71f&is=6872a59f&hm=042d5114685c2deb971d942d6056b4733c837b0d77e003ad94fcac78a7358236&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656353054265416/115.png?ex=6875f15f&is=68749fdf&hm=bdfa76f6b651f45409dbab3b0a4cc9e7598a9c821fa5c4d186d8426b5d124016&",
         },
         {
           name: "Seekers",
           description:
             "Seeker trinket. FIRE to send out three Seekers to track down the three closest enemies. If a Seeker reaches its target, it Nearsights them. Enemies can destroy the Seekers.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656442569101473/115.png?ex=6873f734&is=6872a5b4&hm=4b34c7f0d5533c86ec7bcbef7aaea957b22b6ada76ee3720154da49774e95842&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393656442569101473/115.png?ex=6875f174&is=68749ff4&hm=d999faf5d27df3ff7a5984378f1f70a62f193c080bd2a250bc14456d22f14954&",
         },
       ],
       "KAY/O": [
@@ -676,25 +682,25 @@ function Agents() {
           name: "FLASH/DRIVE",
           description:
             "flash grenade. FIRE to throw. The flash grenade detonates after a short fuse, blinding anyone in line of sight. ALT FIRE to lob the grenade in an arc.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393655675141361847/115.png?ex=6873f67d&is=6872a4fd&hm=e227946d657dd403dda09420119c5a25f77140258072ff3ee07dc9f4acc1f327&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393655559504269332/115.png?ex=6875f0a2&is=68749f22&hm=d36ee37a66f53851a2e55f90818ed4ce877ef430ca43b9b38d4295c97144ddc3&",
         },
         {
           name: "ZERO/POINT",
           description:
             "suppression blade. FIRE to throw. The blade sticks to the first surface it hits, winds up, and suppresses anyone in the radius of the explosion. Enemies can destroy this blade.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393655771811807312/115.png?ex=6873f694&is=6872a514&hm=1f63d160cae2dee2004dbc0a0d123373d849acaf036cf9138f83beb4edafa696&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393655675141361847/115.png?ex=6875f0bd&is=68749f3d&hm=f2c64b76732e48ca9cf02c166900880006592b2281ca09ca29a9009708ad5445&",
         },
         {
           name: "FRAG/MENT",
           description:
             "explosive fragment. FIRE to throw. The fragment sticks to the floor and explodes multiple times, dealing near lethal damage at the center with each explosion.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393655559504269332/115.png?ex=6873f662&is=6872a4e2&hm=777c310d05b2f6d2257f025810c1ae74bbc526eb530e1aa622efe26df71a7bf1&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393655771811807312/115.png?ex=6875f0d4&is=68749f54&hm=8ad5393f8a4d6c6c72e83a2bc42a102920e62e4a3f35624747aeb7b1d38b68db&",
         },
         {
           name: "NULL cmd",
           description:
             "INSTANTLY Overload with polarized radianite energy that pulses from KAY/O in a massive radius. Enemies hit with pulses are Suppressed for a short duration. While overloaded, KAY/O gains Combat Stim and can be re-stabilized if downed.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393655901835100220/115.png?ex=6873f6b3&is=6872a533&hm=108b9540215f23e7c2c149f3b9306d8dafaf7395ff647a7c06d0762a145ab9ec&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393655901835100220/115.png?ex=6875f0f3&is=68749f73&hm=08505885c797cc230c0ebaad7cdd8a4c780664eb3028a5045d61a4ee1ab5f238&",
         },
       ],
       Fade: [
@@ -702,25 +708,25 @@ function Agents() {
           name: "Prowler",
           description:
             "prowler. FIRE to send the prowler forward. HOLD FIRE to steer the prowler towards your crosshair. The prowler will chase down the first enemy or terror trail it sees, and Nearsight the enemy on impact.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393653703336267917/115.png?ex=6873f4a7&is=6872a327&hm=e1380d1e76fe8f0b442002bc1ab70fc7b4d701fee10f0fa28035746ac5c768c0&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393653703336267917/115.png?ex=6875eee7&is=68749d67&hm=b59c32ac95a2f2dd23ecdbc8110e38b11b24dee81480641f9241f7d661d8c8d2&",
         },
         {
           name: "Seize",
           description:
             "knot of raw fear. FIRE to throw. The knot drops down after a set time. RE-USE to drop the knot early. The knot ruptures on impact, holding nearby enemies in place. Held enemies are Deafened, and Decayed.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393653940297666700/115.png?ex=6873f4e0&is=6872a360&hm=55bf6677c140fad82607b150539aada39699bd611e6e781dec44aad6b138bdae&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393653940297666700/115.png?ex=6875ef20&is=68749da0&hm=a3d3fd1cb89f474fe28e9e735a16e39a74f2f023cc77c9cf4efa761534aa57b4&",
         },
         {
           name: "Haunt",
           description:
             "haunting watcher. FIRE to throw. The watcher drops down after a set time. RE-USE to drop the watcher early. The watcher lashes out on impact, Revealing enemies in its line of sight and creating terror trails to them. Enemies can destroy the watcher.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393654033457348629/115.png?ex=6873f4f6&is=6872a376&hm=5bee111d732253ee5f6312a34269384b94dd892d5ef305dd7fa532aa9cb18b72&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393654033457348629/115.png?ex=6875ef36&is=68749db6&hm=16602c28307ace0a3e0bf182d70369f2d637395a62cbc3848ea988533c4a2925&",
         },
         {
           name: "Nightfall",
           description:
             "the power of nightmare itself. FIRE to unleash a wave of unstoppable nightmare energy. Enemies caught in the wave are Marked by terror trails, Deafened, and Decayed.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393654154769072290/115.png?ex=6873f513&is=6872a393&hm=501952564a7fa453de289e0806e0b2f45f380bc8c539eb944ed4b89d9997e5a7&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393654154769072290/115.png?ex=6875ef53&is=68749dd3&hm=2fba4a910ceea285ae5c97a59e8f06a855609c0c32f3cf5b2d84a4cfe7c1a43e&",
         },
       ],
       Gekko: [
@@ -728,25 +734,25 @@ function Agents() {
           name: "Mosh Pit",
           description:
             "Mosh. FIRE to throw Mosh like a grenade. ALT FIRE to lob. Upon landing Mosh duplicates across a large area that deals a small amount of damage over time then after a short delay explodes.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393654504632619018/115.png?ex=6873f566&is=6872a3e6&hm=f454ba4b88b84a01f9acd92d747510710e8ee92dc39b7971f422a1b0578271e4&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393654504632619018/115.png?ex=6875efa6&is=68749e26&hm=a1c0e57418d78a9f95f240c51f7019470b1c0579e125743de8160cdd06fc380b&",
         },
         {
           name: "Wingman",
           description:
             "Wingman. FIRE to send Wingman forward seeking enemies. Wingman unleashes a Concussive blast toward the first enemy he sees. ALT FIRE when targeting a Spike site or planted Spike to have Wingman defuse or plant the Spike. To plant, Gekko must have the Spike in his inventory.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393654676368654447/115.png?ex=6873f58f&is=6872a40f&hm=614065ff584e545741d7769537cd3543ff51253e00f7356ab5123bc1aebbc792&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393654676368654447/115.png?ex=6875efcf&is=68749e4f&hm=9bc7d15c8a9fa2ad29463858f87ef27e007268722c9394ad6a5059dd70751323&",
         },
         {
           name: "Dizzy",
           description:
             "Dizzy. FIRE to send Dizzy soaring forward through the air. Dizzy charges then unleashes plasma blasts at enemies in line of sight. Enemies hit by her plasma are Blinded.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393654888520482836/115.png?ex=6873f5c2&is=6872a442&hm=1a8c37886ddba90c9dbc1033fa20d11f4efda19457b1f0440abee386df0868ca&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393654888520482836/115.png?ex=6875f002&is=68749e82&hm=b83d8e689773a74119623b341b8e7b64f4bce9555f2d8b53b1c5d9fa8829bd4d&",
         },
         {
           name: "Thrash",
           description:
             "Thrash. FIRE to link with Thrash's mind and steer her through enemy territory. ACTIVATE to lunge forward and explode, Detaining any players in a small radius.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393655279865954467/115.png?ex=6873f61f&is=6872a49f&hm=9d6cd6d4024b7aeabeee4232aec95f17b7644d87d06c6bfe71ec319efa474f08&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393655279865954467/115.png?ex=6875f05f&is=68749edf&hm=09527281a1441245289b5941f9c3b4ff9272ba76600fddfe175d373560d7168d&",
         },
       ],
       Tejo: [
@@ -754,25 +760,25 @@ function Agents() {
           name: "Stealth Drone",
           description:
             "stealth drone. FIRE to throw the drone forward, assuming direct control of its movement. FIRE again to trigger a pulse that Suppresses and Reveals enemies hit.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393657287775621120/115.png?ex=6873f7fe&is=6872a67e&hm=827a03c2a271baf4111482fded9a609e15c5cc9a2e849171c6207586832a2930&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393657287775621120/115.png?ex=6875f23e&is=6874a0be&hm=aa7221a074bb15c2de836695699b933aae1acc2165b187776d2e1d443b095b85&",
         },
         {
           name: "Special Delivery",
           description:
             "sticky grenade. FIRE to launch. The grenade sticks to the first surface it hits and explodes, Concussing any targets caught in the blast. ALT FIRE to launch the grenade with a single bounce instead.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393657353001242776/115.png?ex=6873f80d&is=6872a68d&hm=da8f38f4fc0e76569bda835c1f75399e1fca0c989ded912344edead19b4b5131&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393657353001242776/115.png?ex=6875f24d&is=6874a0cd&hm=8c6ff566fcf33ac61211d1b6d738ce1e563785034d2b94f253514813ff97f45c&",
         },
         {
           name: "Guided Salvo",
           description:
             "AR targeting system. FIRE to select up to two target locations on the map. ALT FIRE to launch missiles that autonomously navigate to target locations, detonating on arrival.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393657422924746923/115.png?ex=6873f81e&is=6872a69e&hm=4b9f391836b984b34aa7e88da1ff923da72bcbe7402a91edc86e5428f44fe394&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393657422924746923/115.png?ex=6875f25e&is=6874a0de&hm=f84200ecb415fa4a85c58d81c4b2f4b464cd6cbb989e97f56f2a3592ec193f66&",
         },
         {
           name: "Armageddon",
           description:
             "tactical strike targeting map. FIRE to select the origin point of the strike. FIRE again to set the end point and launch the attack, unleashing a wave of explosions along the strike path. ALT FIRE during map targeting to cancel the origin point.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393657510400884837/115.png?ex=6873f833&is=6872a6b3&hm=48d5340fbf2bdc9e814570ced4100be61f1afc0caff15c1568c2722d9a248712&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393657510400884837/115.png?ex=6875f273&is=6874a0f3&hm=9205495a16c92c412236cded31a316dc18b0d8f7dd3fec19e443e15d701e8d27&",
         },
       ],
       Cypher: [
@@ -780,25 +786,25 @@ function Agents() {
           name: "Trapwire",
           description:
             "trapwire. FIRE to place a destructible and covert trapwire at the targeted location, creating a line that spans between the placed location and the wall opposite. Enemy players who cross a trapwire will be Tethered, Revealed, and Concussed after a short period if they do not destroy the device in time. This ability can be picked up to be REDEPLOYED.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393659578788347984/115.png?ex=6873fa20&is=6872a8a0&hm=d3670997811e5c6c950635da40af07205a1dfb35115d20e494fba862e820cfd4&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393659578788347984/115.png?ex=6875f460&is=6874a2e0&hm=3290d5d875a04a16985b2de296c41c6ed0c26585cb98af4fc9fd79ff04cf4f89&",
         },
         {
           name: "Cyber Cage",
           description:
             "INSTANTLY toss the cyber cage in front of Cypher. ACTIVATE to create a zone that blocks vision and plays an audio cue when enemies pass through it.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393659671839244318/115.png?ex=6873fa36&is=6872a8b6&hm=027777c8013ebba888388e376e8e83ab6be79a156d0855aabb0ff529f0646960&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393659671839244318/115.png?ex=6875f476&is=6874a2f6&hm=bfd2aca056b4f59dff8d4de0d4e411682d41272b319699dbdc44982b5daf59e1&",
         },
         {
           name: "Spycam",
           description:
             "spycam. FIRE to place the spycam at the targeted location. RE-USE this ability to take control of the camera's view. While in control of the camera, FIRE to shoot a marking dart. This dart will Reveal the location of any player struck by the dart. This ability can be picked up to be REDEPLOYED.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393659744920797315/115.png?ex=6873fa48&is=6872a8c8&hm=1f65e6ab023dc9f9637a74d9bb07972a9f23b34336e323a07a7cf816cc4e2524&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393659744920797315/115.png?ex=6875f488&is=6874a308&hm=9a2cbd2baa5829cf88623fc8aaa27613dca21256539bf75cdd312cb62579056b&",
         },
         {
           name: "Neural Theft",
           description:
             "INSTANTLY use on a targeted dead enemy to download information on their team. After a brief delay, the location of all living enemy players will be Revealed twice.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393659811933065318/115.png?ex=6873fa58&is=6872a8d8&hm=f84fd975770a326192b939ce3017b30fe17c09607c87818c75630fa8797d5c55&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393659811933065318/115.png?ex=6875f498&is=6874a318&hm=ffb924c37a7f97b2ec54625ebd3b006c3cd6b4b945b04b0264820508b73706cb&",
         },
       ],
       Sage: [
@@ -806,25 +812,25 @@ function Agents() {
           name: "Barrier Orb",
           description:
             "barrier orb. FIRE places a wall that fortifies after a few seconds. ALT FIRE rotates the targeter.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393663158287208448/115.png?ex=6873fd75&is=6872abf5&hm=f501cce2edd3f0f6f79c65eaea3eb3c24799787901906d8f32484e721a904af3&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393663158287208448/115.png?ex=6875f7b5&is=6874a635&hm=0356e545c730c0fcbfef97ddb253d1e2854bd6d9ec9a2575d84a35f5c00c136f&",
         },
         {
           name: "Slow Orb",
           description:
             "slowing orb. FIRE to throw a slowing orb forward that detonates upon landing, creating a lingering field that Slows and reduces the dash speed of players caught inside of it.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393663335714652180/115.png?ex=6873fda0&is=6872ac20&hm=eaa9af225e8f2ea0382f37bebeacf2bf51a6f89a346236eca8897bd6fb1dee96&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393663335714652180/115.png?ex=6875f7e0&is=6874a660&hm=093a9ca44d1f9147ad11fcfd71ea9cb3be55409af98e2b60a6d8ea1f9cbf5ff5&",
         },
         {
           name: "Healing Orb",
           description:
             "healing orb. FIRE with your crosshairs over a damaged ally to activate a Heal-Over-Time on them. ALT FIRE while Sage is damaged to activate a self Heal-Over-Time.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393663550676795515/115.png?ex=6873fdd3&is=6872ac53&hm=0124c37dd283d0dfc396b86395f0e0451408de93d99d80af1805ddc09933e114&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393663550676795515/115.png?ex=6875f813&is=6874a693&hm=5155157ebc6973a5c26afa76d4b146c3994753c19f1712a1670f5361c2bdec16&",
         },
         {
           name: "Resurrection",
           description:
             "resurrection ability. FIRE with your crosshairs placed over a dead ally to begin resurrecting them. After a brief channel, the ally will be brought back to life with full health.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393663816314916895/115.png?ex=6873fe12&is=6872ac92&hm=010e3f3453f80203757be9f5127180bda4a906113b58e25a341580f5f7dbb285&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393663816314916895/115.png?ex=6875f852&is=6874a6d2&hm=d4a537e6ed42ba67b66db196ef1cf3ccbff9ae54cda9f122c7e365b93f12fd04&",
         },
       ],
       Killjoy: [
@@ -832,25 +838,25 @@ function Agents() {
           name: "Nanoswarm",
           description:
             "Nanoswarm grenade. FIRE to throw the grenade. Upon landing, the Nanoswarm goes covert. ALT FIRE to lob. ACTIVATE the Nanoswarm to deploy a damaging swarm of nanobot.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393661583254880338/115.png?ex=6873fbfe&is=6872aa7e&hm=c0bd5994832caaff780292a27232ec678d4cc61b6a3fec2de9a0e85f33343745&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393661583254880338/115.png?ex=6875f63e&is=6874a4be&hm=71a9eb53bf6108adbce89f7968756f3a700b4df028591b8bf00e156ecf3f7888&",
         },
         {
           name: "Alarmbot",
           description:
             "covert Alarmbot. FIRE to deploy a bot that hunts down enemies that get in range. After reaching its target, the bot explodes and applies Vulnerable to enemies in the area. HOLD EQUIP to recall a deployed bot.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393661805485883494/115.png?ex=6873fc33&is=6872aab3&hm=18d6df7912ccea37d4046bba6e057474844d912161c93bebffa328305b7d1c54&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393661805485883494/115.png?ex=6875f673&is=6874a4f3&hm=14aa9752c101dd220fe40a3fc74b4b9a8e06ca3a2f47b8caf3df2aeeda670465&",
         },
         {
           name: "Turret",
           description:
             "Turret. FIRE to deploy a turret that fires at enemies in a 100 degree cone. ALT FIRE to swap turret direction. HOLD EQUIP to recall the deployed turret.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393662242863579136/115.png?ex=6873fc9b&is=6872ab1b&hm=2c4794bb9639e91ef0d89503ccfa071f4d9d25eb00fe3de86ecbcf2448d27292&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393662242863579136/115.png?ex=6875f6db&is=6874a55b&hm=4a28ac5591f3daf259de6d6cd148da6a0eacb7d2a8b215a308da151f92ad6a7c&",
         },
         {
           name: "Lockdown",
           description:
             "the Lockdown device. FIRE to deploy the device. After a long windup, the device Detains all enemies caught in the radius. The device can be destroyed by enemies.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393662500532125856/115.png?ex=6873fcd9&is=6872ab59&hm=9b79a3b3abd64acee8e7c5905461da93d3532b20769c1c5a26946199b925ba7f&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393662500532125856/115.png?ex=6875f719&is=6874a599&hm=c360512d63ed33189e2c4bcccd6461e8ddb8a6464c687be5df13c95f574ace63&",
         },
       ],
       Chamber: [
@@ -858,25 +864,25 @@ function Agents() {
           name: "Trademark",
           description:
             "trap that scans for enemies. FIRE to place it on the ground. When a visible enemy comes in range, the trap counts down and then destabilizes the terrain around them, creating a lingering field that Slows players caught inside of it. The trap can be picked up to be REDEPLOYED.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393658776296489071/115.png?ex=6873f961&is=6872a7e1&hm=63ce80ad8da7a490c19810a8b181ab77f30601a7e3118cbce3a5e4ce1bdc8430&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393658776296489071/115.png?ex=6875f3a1&is=6874a221&hm=714f1971e8ceac1e583fceaf3f6bd4e8f823c65e4680bd6a6d4ce2a05a93ce6f&",
         },
         {
           name: "Headhunter",
           description:
             "ACTIVATE to equip a heavy pistol. ALT FIRE with the pistol equipped to aim down sights.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393658847327027396/115.png?ex=6873f972&is=6872a7f2&hm=d8448617f57e827a12c7b93ae4c922cdc6fbf07516e60429640791e5f285cbb6&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393658847327027396/115.png?ex=6875f3b2&is=6874a232&hm=dc8ddeb25d108802a2f750a05467c37d61ab80c7a8f5afd3798da033379d4022&",
         },
         {
           name: "Rendezvous",
           description:
             "teleport anchor. FIRE to place it on the ground. While on the ground and in range of the anchor, REACTIVATE to quickly teleport to the anchor. The anchor can be picked up to be REDEPLOYED.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393658917254332529/115.png?ex=6873f982&is=6872a802&hm=b29939f480b97e5b7e12215cedf6880772d5a93c507efbda467220579d3a0613&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393658917254332529/115.png?ex=6875f3c2&is=6874a242&hm=a9ce4f076a3a2e8578d3f530c9564e247de03da39bab7dc1b00e4dea16988b82&",
         },
         {
           name: "Tour De Force",
           description:
             "ACTIVATE to summon a powerful, custom sniper rifle that will kill an enemy with any direct hit to the upper body. ALT FIRE to aim down sights. Killing an enemy creates a lingering field that Slows players caught inside of it.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393658984501739693/115.png?ex=6873f992&is=6872a812&hm=7bce9b11342f258e6d2952d4fa10c8256a8f4218f61f558616ae93ddf38489ee&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393658984501739693/115.png?ex=6875f3d2&is=6874a252&hm=48cf10ffbb3c69b8282d7e1aab65153eeaf84995d3433f275c6e0ee141f08251&",
         },
       ],
       Deadlock: [
@@ -884,25 +890,25 @@ function Agents() {
           name: "Barrier Mesh",
           description:
             "Barrier Mesh disc. FIRE to throw forward. Upon landing, the disc generates barriers from the origin point that block character movement.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393659960675794975/115.png?ex=6873fa7b&is=6872a8fb&hm=2d7742f8ffac4f5c049d8e75e791fe674b06ae6bb6cc52e0a0bd8e117f168d9b&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393659960675794975/115.png?ex=6875f4bb&is=6874a33b&hm=a879e897bdac689dacfbf028de7e3b6e7ffc5cda88564e2a0cbb2eb26de95dff&",
         },
         {
           name: "Sonic Sensor",
           description:
             "Sonic Sensor. FIRE to deploy. The sensor monitors an area for enemies making sound. It concusses that area if footsteps, weapons fire, or significant noise are detected. This ability can be picked up to be REDEPLOYED.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393660228221931642/115.png?ex=6873fabb&is=6872a93b&hm=5a7c4fd9b6cad8f62ab5b4875047d0fc2a5bb1b2416cc14ce4fc101490cc3ad9&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393660228221931642/115.png?ex=6875f4fb&is=6874a37b&hm=7461191a6ec75c4f301c0db1acfb9504068bd5de098ec4ce4a7f6e25dc51ba89&",
         },
         {
           name: "GravNet",
           description:
             "GravNet grenade. FIRE to throw. ALT FIRE to lob. The GravNet detonates upon landing, forcing any characters caught within to crouch and move slowly.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393660452986159176/115.png?ex=6873faf0&is=6872a970&hm=b203a6e230bf550a9f30be836dcc26a4cc38d60b50f948f3d48b1b76b27719c9&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393660452986159176/115.png?ex=6875f530&is=6874a3b0&hm=5954e98d91d20137e3e1da34c06fcfe6d5a1e8270450c36c0c1dc0d8b5116115&",
         },
         {
           name: "Annihilation",
           description:
             "Nanowire Accelerator. FIRE to unleash a pulse of nanowires that captures the first enemy contacted. The cocooned enemy is pulled along a nanowire path and will die unless they are freed. The nanowire cocoon is destructible.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393660936472100874/115.png?ex=6873fb64&is=6872a9e4&hm=aded5c048855a453a4a954971456fe33b4d2a62470f70d394acb98e54ef7da85&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393660936472100874/115.png?ex=6875f5a4&is=6874a424&hm=f8fc6c882507bc4edc4b174d90a49fb40adf608daf4a47c1d65ded56733eaa08&",
         },
       ],
       Vyse: [
@@ -910,25 +916,25 @@ function Agents() {
           name: "Razorvine",
           description:
             "nest of liquid metal. FIRE to launch. Upon landing, the nest becomes invisible. When ACTIVATED, it sprawls out into a large razorvine nest which slows and damages all players who move through it.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393664002055209000/115.png?ex=6873fe3f&is=6872acbf&hm=0a733f24cac91274176f06e7aad67513385e319c9964aff1cf4ad78a9609f583&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393664002055209000/115.png?ex=6875f87f&is=6874a6ff&hm=ed450f6dec120a7f1558dc11257ebbf60101cdcf6ea5dee3b4e4a172370cb257&",
         },
         {
           name: "Shear",
           description:
             "filaments of liquid metal. FIRE to place a hidden wall trap. When an enemy crosses, an indestructible wall bursts from the ground behind them. The wall lasts for a brief time before dissipating.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393664136759611433/115.png?ex=6873fe5f&is=6872acdf&hm=dfc777dc92fecf6dab256e08384c82448e6f7fe28791cfd46150f0f5f32c51bf&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393664136759611433/115.png?ex=6875f89f&is=6874a71f&hm=4cfcb63fe1fa43886cf16e0e95a8d3181df09650c62a09e5974273cbbe19f67e&",
         },
         {
           name: "Arc Rose",
           description:
             "Arc Rose. Target a surface and FIRE to place a stealthed Arc Rose, or ALT FIRE to place the Arc Rose through it. REUSE to blind all players looking at it. This ability can be picked up to be REDEPLOYED.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393664198189514752/115.png?ex=6873fe6d&is=6872aced&hm=d686a9c847bb8ce84ed8d940437d9b8621399258ad021830e7b2c37cf193e473&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393664198189514752/115.png?ex=6875f8ad&is=6874a72d&hm=1ea072999f50fcfefa7b2f76b7452591716cad7f38446ffe78ba797f7538474c&",
         },
         {
           name: "Steel Garden",
           description:
             "bramble of liquid metal. FIRE to send the metal erupting from you as a torrent of metal thorns, JAMMING enemy primary weapons after a brief windup.",
-          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393664260114223245/115.png?ex=6873fe7c&is=6872acfc&hm=f0f856614cc690f830b6bd81573bdd59030200097316f88b4f43853dfc12bf62&",
+          icon: "https://cdn.discordapp.com/attachments/1393593969618849937/1393664260114223245/115.png?ex=6875f8bc&is=6874a73c&hm=1453ad039e6b474e33a04ae7ae137186dac7f0cbc3b221267ab614c1522499d7&",
         },
       ],
     };
@@ -963,6 +969,14 @@ function Agents() {
                   src={agent.image}
                   alt={agent.name}
                   className="agent-image"
+                  loading="lazy"
+                  onError={(e) => {
+                    console.error(
+                      `Failed to load image for agent ${agent.name}`
+                    );
+                    e.target.onerror = null;
+                    e.target.src = "/images/agents/agent-placeholder.svg";
+                  }}
                 />
                 <div className="agent-info">
                   <h3 className="agent-name">{agent.name}</h3>

@@ -5,6 +5,7 @@ import Agents from "./pages/Agents";
 import Maps from "./pages/Maps";
 import Weapons from "./pages/Weapons";
 import GameModes from "./pages/GameModes";
+import NotFound from "./pages/NotFound";
 import "./App.css";
 
 // Set background for the entire app
@@ -60,6 +61,7 @@ function App() {
             <Route path="/maps" element={<Maps />} />
             <Route path="/weapons" element={<Weapons />} />
             <Route path="/game-modes" element={<GameModes />} />
+            <Route path="*" element={<NotFound />} />
           </Routes>
         </main>
       </div>
