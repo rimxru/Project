@@ -1,30 +1,80 @@
-VALORANT WIKI
-เว็บไซต์แอปพลิเคชันสำหรับรวบรวมข้อมูลเกี่ยวกับเกม VALORANT พัฒนาในรูปแบบ Single Page Application ด้วย React และ Vite
+# VALORANT WIKI
 
-🌟 ฟีเจอร์และหน้าเพจต่างๆ
-ตัวเว็บไซต์มีการแบ่งหมวดหมู่ข้อมูลออกเป็นหน้าต่างๆ เพื่อให้ง่ายต่อการเข้าถึง ดังนี้:
+เว็บไซต์แอปพลิเคชันสำหรับรวบรวมข้อมูลเกี่ยวกับเกม VALORANT พัฒนาในรูปแบบ Single Page Application (SPA)
 
-Home: หน้าหลักของเว็บไซต์
+## 🌟 Features
+เว็บไซต์มีการแบ่งหมวดหมู่ข้อมูลเพื่อให้ง่ายต่อการเข้าถึง ดังนี้:
+* **Home:** หน้าหลักของเว็บไซต์
+* **Agents:** ข้อมูลตัวละคร (Agents)
+* **Maps:** ข้อมูลแผนที่ต่างๆ
+* **Weapons:** ข้อมูลอาวุธและปืน
+* **Game Modes:** โหมดการเล่นต่างๆ
 
-Agents: ข้อมูลตัวละคร (Agents) ในเกม
+## 💻 Tech Stack
+* **Frontend:** React 19
+* **Routing:** React Router 7
+* **Build Tool:** Vite
+* **Icons:** Font Awesome
+* **Styling:** CSS
 
-Maps: ข้อมูลแผนที่ต่างๆ
+## 🚀 Getting Started
 
-Weapons: ข้อมูลอาวุธและปืน
+1. ติดตั้ง Dependencies:
 
-Game Modes: โหมดการเล่นต่างๆ ภายในเกม
+   npm install
+2. รันโปรเจกต์ (Development):
 
-Not Found (404): หน้าสำหรับรองรับกรณีที่ผู้ใช้งานพิมพ์ URL ไม่ถูกต้อง
+   npm run dev
+3. Build โปรเจกต์:
 
-นอกจากนี้เว็บไซต์ยังได้รับการตั้งค่าพื้นหลังให้เป็นโทนสีเข้ม (Dark gradient) เพื่อให้เข้ากับบรรยากาศของเกม และมีการดึงชุดไอคอนจาก Font Awesome มาใช้งาน
+   npm run build
 
-💻 เทคโนโลยีและเครื่องมือที่ใช้ (Tech Stack)
-Frontend Library: React (เวอร์ชัน 19.1.0)
+   Gemini บอกว่า
+ใช่ครับ คุณสามารถคัดลอกเนื้อหาที่ผมร่างให้ไปวางในไฟล์ที่ชื่อว่า README.md ในโฟลเดอร์โปรเจกต์ของคุณได้เลยครับ
 
-Routing: React Router DOM (เวอร์ชัน 7.6.3) สำหรับจัดการการเปลี่ยนหน้าโดยไม่ต้องรีโหลด
+เพื่อให้ไฟล์ README.md ดูเป็นมืออาชีพและแสดงผลได้สวยงามบน GitHub ผมแนะนำให้คุณจัดรูปแบบโดยใช้ตัวอักษรพิเศษ (Markdown) ดังนี้ครับ:
 
-Build Tool: Vite (เวอร์ชัน 7.0.4) เพื่อความรวดเร็วในการคอมไพล์และพัฒนาโปรเจกต์
+วิธีนำไปใส่ในไฟล์:
+เปิดไฟล์ที่ชื่อว่า README.md ในโปรแกรม VS Code
 
-Icons: Font Awesome 6.0.0
+ลบเนื้อหาเดิมออก (ถ้ามี) แล้ววางข้อความนี้ลงไป:
 
-Linter: ESLint สำหรับควบคุมคุณภาพและมาตรฐานของการเขียนโค้ด
+Markdown
+# VALORANT WIKI
+
+เว็บไซต์แอปพลิเคชันสำหรับรวบรวมข้อมูลเกี่ยวกับเกม VALORANT พัฒนาในรูปแบบ Single Page Application (SPA)
+
+## 🌟 Features
+เว็บไซต์มีการแบ่งหมวดหมู่ข้อมูลเพื่อให้ง่ายต่อการเข้าถึง ดังนี้:
+* **Home:** หน้าหลักของเว็บไซต์
+* **Agents:** ข้อมูลตัวละคร (Agents)
+* **Maps:** ข้อมูลแผนที่ต่างๆ
+* **Weapons:** ข้อมูลอาวุธและปืน
+* **Game Modes:** โหมดการเล่นต่างๆ
+
+## 💻 Tech Stack
+* **Frontend:** React 19
+* **Routing:** React Router 7
+* **Build Tool:** Vite
+* **Icons:** Font Awesome
+* **Styling:** CSS
+
+## 🚀 Getting Started
+
+1. ติดตั้ง Dependencies:
+   ```bash
+   npm install
+รันโปรเจกต์ (Development):
+
+npm run dev
+
+Build โปรเจกต์:
+
+npm run build
+
+📂 Project Structure
+src/pages/: เก็บไฟล์หน้าต่างๆ ของเว็บไซต์ เช่น Home, Agents, Maps
+
+src/App.jsx: ไฟล์หลักสำหรับจัดการ Routing ของแอปพลิเคชัน
+
+public/images/: เก็บไฟล์รูปภาพประกอบต่างๆ
